@@ -3,8 +3,8 @@
 This is the project page for **uTerms**: a _software to highlight potentially **u**nfair **Terms** of Service_.
 
 ## Downloads
-  * Windows. Installation file ([.exe](https://github.com/ypanagis/uterms/releases/download/1.3/uTerms-1.3.exe))
-  * MacOS. Zip file ([.zip](https://github.com/ypanagis/uterms/releases/download/1.3/uTerms.zip))
+  * Windows. Installation file ([.exe](https://github.com/ypanagis/uterms/releases/download/1.4.1/uTerms-1.4.1.exe))
+  * MacOS. Zip file ([.zip](https://github.com/ypanagis/uterms/releases/download/1.4.1/uTerms.zip))
   
 ## Installation
 ### Windows
