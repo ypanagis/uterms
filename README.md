@@ -8,14 +8,14 @@ This is the project page for **uTerms**: a _software to highlight potentially **
   
 ## Installation
 ### Windows
-Download the `.exe` file from above. Click and follow the steps. The software gets installed at: `C:\Users\<user_name>\AppData\Local\uTerms`.
+Download the `.exe` file from above. Run it and follow the steps. The software gets installed at: `C:\Users\<user_name>\AppData\Local\uTerms`.
 ### MacOSX
   1. Download the zip file from above
   2. Unzip it in a folder in your home directory
   
-## Running thee software
+## Running the software
 ### Windows
-On **Windows 10** your software will be under **Apps > uTerms.software > uTerms**, or you can press `Windows key + S` and type "uTerms" and Enter
+On **Windows 10** your software will be under **Apps > uTerms.software > uTerms**, or you can press `Windows key + S` and type "uTerms" and Enter.
 ### MacOSX
 **Note:** it is a good idea to install the **Java SE Development Kit** before you will be able to run the software. You can find it [here](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html). 
 Trust the downloaded .dmg file, Oracle is sufficiently trustworthy!
