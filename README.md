@@ -1,6 +1,6 @@
 ## Introduction
 
-This is the project page for **uTerms**: a _software to highlight potentially **u**nfair **Terms** of Service_. To jump to the download section, click right [here](#Downloads)
+This is the project page for **uTerms**: a _software to highlight potentially **u**nfair **Terms** of Service_. You can download it [here](#Downloads)!
 
 ## Downloads <a id="Downloads"></a>
   * Windows. Installation file ([.exe](https://github.com/ypanagis/uterms/releases/download/1.4.1/uTerms-1.4.1.exe))
