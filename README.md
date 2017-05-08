@@ -7,8 +7,7 @@ The idea behind **uTerms** is to assist consumer law organizations in ensuring t
 ## Contents
 1. [Functionalities of uTerms](#functions)
 2. [Download and installation of uTerms](#functions)
-3. [What's next?](#future)
-4. [The Team](#team)
+3. [The Team](#team)
 
 
 
@@ -61,9 +60,7 @@ To run the software for the first time execute the following steps:
 ## Modifying the dictionary
 _To be added soon._
 
-# What's next? <a id="future"></a>
-This version of **uTerms** is just a first step in a much bigger project, aiming at automating the enforcement of unfair terms law to the fullest possible degree. 
 
 # The Team <a id="team"></a>
 This page accompanies a research paper, currently under a double-blind review. Since we link to it in the paper, we must leave the names of the authors out, until the review process is complete.
-However, should you have any questions, comments, or would like to get in touch reagrding colaboration, let us know at: trzecikebab@gmail.com
+However, should you have any questions, comments, or would like to get in touch reagrding colaboration, let us know at: trzecikebab [at] gmail.com
