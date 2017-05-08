@@ -13,7 +13,7 @@ The idea behind **uTerms** is to assist consumer law organizations in ensuring t
 
 # Functionalities of uTerms <a id="functions"></a>
 
-<img src="pic1.png">
+<img src="pic3.png">
 Figure 1
 
 From the user’s perspective, the functionalities of the software are the following. Firstly, the programme imports a contract to be scanned – it can import it either from a file (like a pdf, or docx, or html), if the user has it saved on their computer, or directly from the internet. For the latter, it is sufficient for a user to copy/paste the URL from an internet browser into the software’s bar. A last option is to import the contract to the programme by directly copy/pasting the contents of the contract into the programme’s main window. Then, the user can click “Process” and, as an output, will receive the same document, with highlighted parts of the text, which are potentially unfair contractual clauses. The outcome of this process is presented in Figure 1, where we can see the terms produced as unfair for the case of Google's terms of service.
@@ -24,7 +24,7 @@ Figure 2
 
 What is more, the software can display solely the annotated paragraphs (thereby sharply reducing the amount of the text displayed). This use mode is displayed in Figure 2. As we can see in both screenshots so far, these results are shown within the programme’s output window. If the user chooses to save the results, they might decide to save them as a pdf or docx document.
 
-<img src="pic3.png">
+<img src="pic1.png">
 Figure 3
 
 Additionally, we have created a functionality that allows comparing several documents at the same time, see Figure 3. In order to do this, the user can again choose a folder containing the chosen documents, or import them directly from the internet. The output will then contain potentially unfair clauses of all the analysed contracts, ordered by the type of unfairness, indicating which terms comes from terms of which service.
