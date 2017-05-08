@@ -1,8 +1,8 @@
 ## Introduction
 
-This is the project page for **uTerms**: a _software to highlight potentially **u**nfair **Terms** of Service_.
+This is the project page for **uTerms**: a _software to highlight potentially **u**nfair **Terms** of Service_. To jump to the download section, click right [here](#Downloads)
 
-## Downloads
+## Downloads <a id="Downloads"></a>
   * Windows. Installation file ([.exe](https://github.com/ypanagis/uterms/releases/download/1.4.1/uTerms-1.4.1.exe))
   * MacOS. Zip file ([.zip](https://github.com/ypanagis/uterms/releases/download/1.4.1/uTerms.zip))
   
