@@ -14,7 +14,7 @@ The idea behind **uTerms** is to assist consumer law organizations in ensuring t
 
 # Functionalities of uTerms <a id="functions"></a>
 
-Here I will insert the functionalities
+<img src="Picture1.png">
 
 
 # Downloads <a id="Downloads"></a>
