@@ -30,3 +30,7 @@ To run the software for the first time execute the following steps:
   
 ## Modifying the dictionary
 _To be added soon._
+
+## test
+## test test
+does this work as a [link](http://google.com)?
