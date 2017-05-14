@@ -11,7 +11,7 @@ title                    : "uTerms"
 title_separator          : "-"
 name                     : "uTerms"
 description              : "A software to highlight potentially unfair terms of service."
-url                      : http://uterms.software# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://uterms.software 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : ypanagis/uterms # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
