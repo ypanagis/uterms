@@ -3,19 +3,16 @@ layout: single
 permalink: /documentation/
 title: Documentation
 ---
-1. [Installation](#installation)
-2. [Running the software](#running)
-3. [Modifying the dictionary](#dictionary)
-4. [uTerms use](#use)
 
-## Installation<a id="installation"></a>
+{% include toc title="Operating uTerms" %}
+## Installation
 ### Windows
 Download the `.exe` file from the [Download](/download/) section. Run it and follow the steps. The software gets installed at: `C:\Users\<user_name>\AppData\Local\uTerms`.
 ### MacOSX
   1. Download the zip file from the [Download](/download/) section.
   2. Unzip it in a folder in your home directory.
   
-## Running the software<a id="running"></a>
+## Running the software
 ### Windows
 On **Windows 10** your software will be under **Start menu > uTerms.software > uTerms**, or you can press `Windows key + S` and type "uTerms" and Enter.
 
@@ -28,12 +25,12 @@ To run the software for the first time execute the following steps:
   1. In a Mac open the folder that contains the software
   2. Hold the **Ctrl** button, click the file **uTerms.jar** and from the menu that opens select **Open**. The first time you run the software, Mac OS gives you a message that *this is an untrusted application*. 
   Ignore the message and click **Open**. 
-  3. It will ask you for your username and password that you use to install applications. Enter both and hit Ok.
-  4. From this moment you will be able to run your application by double clicking, or Ctrl+click and Open.
+  3. It will ask you for your username and password that you use to install applications. Enter both and hit **Ok**.
+  4. From this moment you will be able to run your application by double clicking, or Ctrl+click and then **Open**.
   
-## Modifying the dictionary<a id="dictionary"></a>
+## Modifying the dictionary
 _To be added soon._
-## uTerms use<a id="use"></a>
+## uTerms use
 ![Example use]({{ "/assets/images/pic1.png" | absolute_url }} "Basic use")
 
 From the user’s perspective, the functionalities of the software are the following. Firstly, the programme imports a contract to be scanned – it can import it either from a file (like a pdf, or docx, or html), if the user has it saved on their computer, or directly from the internet. For the latter, it is sufficient for a user to copy/paste the URL from an internet browser into the software’s bar. A last option is to import the contract to the programme by directly copy/pasting the contents of the contract into the programme’s main window. Then, the user can click “Process” and, as an output, will receive the same document, with highlighted parts of the text, which are potentially unfair contractual clauses. The outcome of this process is presented in Figure 1, where we can see the terms produced as unfair for the case of Google's terms of service.
